@@ -16,3 +16,4 @@
 
 <img width="942" alt="image" src="https://github.com/rameshthan/calico/assets/117551738/c41cd62d-3066-480a-8f92-c541708e0b35">
 
+kubectl apply -f https://docs.projectcalico.org/manifests/calico.yaml
